@@ -5,11 +5,12 @@ Welcome to the Look 4 Fundings project ecosystem! This is a comprehensive fundin
 This project is participating in the [Mistral AI MCP Hackathon](https://cerebralvalley.ai/e/mistral-mcp-hackathon) hosted by Cerebral Valley and Mistral AI.
 
 🔥 Watch our video presentation demo here: 🎥 [Look 4 Fundings Demo](https://www.youtube.com/watch?v=P3LU4bILmJM)
+[Working demo](https://web-production-08f4.up.railway.app/)
 
 ## 🔗 Quick Links
 
-- **[Backend MCP Server](../look-4-fundings/)** - For developers and AI integration
-- **[Frontend Web Application](../look-4-fundings-front/)** - For end users and companies
+- **[Backend MCP Server](https://github.com/MCP4Public/look-4-fundings/)** - For developers and AI integration
+- **[Frontend Web Application](https://github.com/MCP4Public/ook-4-fundings-front)** - For end users and companies
 - **[Example Chat 1](https://chat.mistral.ai/chat/d2f202df-281f-4e0f-97c5-59a1d286f448)** - Le Chat demonstration
 - **[Example Chat 2](https://chat.mistral.ai/chat/d1feab82-6ceb-4e16-916f-5cb8e3bdd3d7)** - Le Chat demonstration
 
