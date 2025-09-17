@@ -4,9 +4,7 @@ Welcome to the Look 4 Fundings project ecosystem! This is a comprehensive fundin
 
 This project is participating in the [Mistral AI MCP Hackathon](https://cerebralvalley.ai/e/mistral-mcp-hackathon) hosted by Cerebral Valley and Mistral AI.
 
-🔥 Watch our video presentation demo here: 🎥 [Look 4 Fundings Demo](https://www.youtube.com/watch?v=P3LU4bILmJM)
-
-[Working demo](https://web-production-08f4.up.railway.app/)
+🔥 Watch our video presentation demo here: 🎥 [Look 4 Fundings Demo](https://www.youtube.com/watch?v=xzPMC8p4CO8)
 
 ## 🔗 Quick Links
 
@@ -49,6 +47,8 @@ A sleek, responsive web application built with FastAPI and modern frontend techn
 - **Real-time Updates**: Instant updates when adding, removing, or updating grants
 
 **Perfect for:** Companies looking for a user-friendly interface to manage their funding opportunities and generate professional reports.
+
+⚠️ The Demo during the hackathon was hosted temporarly online, but now the endpoint has been teared down! You can always try it locally following the instructions at [backend repo](https://github.com/MCP4Public/look-4-fundings/)
 
 ---
 
